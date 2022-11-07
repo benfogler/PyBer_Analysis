@@ -13,6 +13,8 @@ From the multiple-line chart we are able to determine:
 
 	3. Regardless of city type, the end of February all had peak fares.
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/114610539/200403558-24eccd5e-6d00-495d-9474-813cfc940662.png)
+
 
 
 ## Summary
